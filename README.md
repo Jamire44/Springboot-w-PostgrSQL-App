@@ -1,2 +1,2 @@
 # Springboot-w-PostgrSQL-App
-This is a basic Springboot / Java project that integrates a PostgreSQL Database. You are able to do GET,POST,DELETE,PUT Requests. Some Error Handling also.
+This is a Springboot / Java project that integrates a PostgreSQL Database. You are able to do GET,POST,DELETE,PUT / CRUD Requests. Some Error Handling also.
